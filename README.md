@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Xayah's github stats](https://github-readme-stats.vercel.app/api?username=XayahSuSuSu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XayahSuSuSu)](https://github.com/anuraghazra/github-readme-stats)
