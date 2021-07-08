@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 -->
 ## 📫 **How to reach me:**  
 - **Telegram:** [@XayahSuSuSu](https://t.me/XayahSuSuSu)
+- 
+- **Blog:** [AcmeZone](http://acmezone.tk)
 ****
 [![Xayah's github stats](https://github-readme-stats.vercel.app/api?username=XayahSuSuSu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ****
